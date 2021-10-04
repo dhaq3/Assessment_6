@@ -1,0 +1,1920 @@
+{
+  "holidays": [
+    {
+      "name": "Margaret Thatcher Day",
+      "date": "2021-01-10"
+    },
+    {
+      "name": "World Sketchnote Day",
+      "date": "2021-01-11"
+    },
+    {
+      "name": "Zanzibar Revolution Day",
+      "date": "2021-01-12"
+    },
+    {
+      "name": "National Rubber Ducky Day",
+      "date": "2021-01-13"
+    },
+    {
+      "name": "Tamil Thai Pongdal Day",
+      "date": "2021-01-14"
+    },
+    {
+      "name": "National Bagel Day",
+      "date": "2021-01-15"
+    },
+    {
+      "name": "Signing of the Peace Accords",
+      "date": "2021-01-16"
+    },
+    {
+      "name": "New Year's Day",
+      "date": "2021-01-01"
+    },
+    {
+      "name": "World Braille Day",
+      "date": "2021-01-04"
+    },
+    {
+      "name": "Epiphany",
+      "date": "2021-01-06"
+    },
+    {
+      "name": "Orthodox Christmas Day",
+      "date": "2021-01-07"
+    },
+    {
+      "name": "International Programmers' Day",
+      "date": "2021-01-07"
+    },
+    {
+      "name": "Stephen Foster Memorial Day",
+      "date": "2021-01-13"
+    },
+    {
+      "name": "Orthodox New Year",
+      "date": "2021-01-14"
+    },
+    {
+      "name": "World Religion Day",
+      "date": "2021-01-17"
+    },
+    {
+      "name": "Martin Luther King Jr. Day",
+      "date": "2021-01-18"
+    },
+    {
+      "name": "Robert E. Lee's Birthday",
+      "date": "2021-01-18"
+    },
+    {
+      "name": "Idaho Human Rights Day",
+      "date": "2021-01-18"
+    },
+    {
+      "name": "Civil Rights Day",
+      "date": "2021-01-18"
+    },
+    {
+      "name": "Robert E. Lee's Birthday",
+      "date": "2021-01-19"
+    },
+    {
+      "name": "Confederate Heroes' Day",
+      "date": "2021-01-19"
+    },
+    {
+      "name": "Inauguration Day",
+      "date": "2021-01-20"
+    },
+    {
+      "name": "International Day of Education",
+      "date": "2021-01-24"
+    },
+    {
+      "name": "International Customs Day",
+      "date": "2021-01-26"
+    },
+    {
+      "name": "International Day of Commemoration in Memory of the Victims of the Holocaust",
+      "date": "2021-01-27"
+    },
+    {
+      "name": "Tu Bishvat/Tu B'Shevat",
+      "date": "2021-01-28"
+    },
+    {
+      "name": "Kansas Day",
+      "date": "2021-01-29"
+    },
+    {
+      "name": "World Leprosy Day",
+      "date": "2021-01-31"
+    },
+    {
+      "name": "National Freedom Day",
+      "date": "2021-02-01"
+    },
+    {
+      "name": "First Day of Black History Month",
+      "date": "2021-02-01"
+    },
+    {
+      "name": "World Wetlands Day",
+      "date": "2021-02-02"
+    },
+    {
+      "name": "Groundhog Day",
+      "date": "2021-02-02"
+    },
+    {
+      "name": "International Day of Human Fraternity",
+      "date": "2021-02-04"
+    },
+    {
+      "name": "World Cancer Day",
+      "date": "2021-02-04"
+    },
+    {
+      "name": "Rosa Parks Day",
+      "date": "2021-02-04"
+    },
+    {
+      "name": "National Wear Red Day",
+      "date": "2021-02-05"
+    },
+    {
+      "name": "International Day of Zero Tolerance for Female Genital Mutilation",
+      "date": "2021-02-06"
+    },
+    {
+      "name": "Super Bowl",
+      "date": "2021-02-07"
+    },
+    {
+      "name": "World Pulses Day",
+      "date": "2021-02-10"
+    },
+    {
+      "name": "International Day of Women and Girls in Science",
+      "date": "2021-02-11"
+    },
+    {
+      "name": "World Day of the Sick",
+      "date": "2021-02-11"
+    },
+    {
+      "name": "Lincoln's Birthday",
+      "date": "2021-02-12"
+    },
+    {
+      "name": "Chinese New Year",
+      "date": "2021-02-12"
+    },
+    {
+      "name": "World Radio Day",
+      "date": "2021-02-13"
+    },
+    {
+      "name": "Valentine's Day",
+      "date": "2021-02-14"
+    },
+    {
+      "name": "Statehood Day",
+      "date": "2021-02-14"
+    },
+    {
+      "name": "Presidents' Day",
+      "date": "2021-02-15"
+    },
+    {
+      "name": "Daisy Gatson Bates Day",
+      "date": "2021-02-15"
+    },
+    {
+      "name": "Susan B. Anthony's Birthday",
+      "date": "2021-02-15"
+    },
+    {
+      "name": "Shrove Tuesday/Mardi Gras",
+      "date": "2021-02-16"
+    },
+    {
+      "name": "Elizabeth Peratrovich Day",
+      "date": "2021-02-16"
+    },
+    {
+      "name": "Ash Wednesday",
+      "date": "2021-02-17"
+    },
+    {
+      "name": "World Day of Social Justice",
+      "date": "2021-02-20"
+    },
+    {
+      "name": "International Mother Language Day",
+      "date": "2021-02-21"
+    },
+    {
+      "name": "George Rogers Clark Day",
+      "date": "2021-02-25"
+    },
+    {
+      "name": "Purim",
+      "date": "2021-02-26"
+    },
+    {
+      "name": "Linus Pauling Day",
+      "date": "2021-02-28"
+    },
+    {
+      "name": "Zero Discrimination Day",
+      "date": "2021-03-01"
+    },
+    {
+      "name": "Self-Injury Awareness Day",
+      "date": "2021-03-01"
+    },
+    {
+      "name": "St. David's Day",
+      "date": "2021-03-01"
+    },
+    {
+      "name": "Casimir Pulaski Day",
+      "date": "2021-03-01"
+    },
+    {
+      "name": "First Day of Women's History Month",
+      "date": "2021-03-01"
+    },
+    {
+      "name": "First Day of Irish American Heritage Month",
+      "date": "2021-03-01"
+    },
+    {
+      "name": "Texas Independence Day",
+      "date": "2021-03-02"
+    },
+    {
+      "name": "Read Across America Day",
+      "date": "2021-03-02"
+    },
+    {
+      "name": "Town Meeting Day",
+      "date": "2021-03-02"
+    },
+    {
+      "name": "World Wildlife Day",
+      "date": "2021-03-03"
+    },
+    {
+      "name": "Employee Appreciation Day",
+      "date": "2021-03-05"
+    },
+    {
+      "name": "International Women's Day",
+      "date": "2021-03-08"
+    },
+    {
+      "name": "Maha Shivaratri",
+      "date": "2021-03-11"
+    },
+    {
+      "name": "Isra and Mi'raj",
+      "date": "2021-03-11"
+    },
+    {
+      "name": "World Kidney Day",
+      "date": "2021-03-11"
+    },
+    {
+      "name": "Daylight Saving Time starts",
+      "date": "2021-03-14"
+    },
+    {
+      "name": "St. Patrick's Day",
+      "date": "2021-03-17"
+    },
+    {
+      "name": "Evacuation Day",
+      "date": "2021-03-17"
+    },
+    {
+      "name": "French Language Day",
+      "date": "2021-03-20"
+    },
+    {
+      "name": "International Day of Happiness",
+      "date": "2021-03-20"
+    },
+    {
+      "name": "March Equinox",
+      "date": "2021-03-20"
+    },
+    {
+      "name": "International Day for the Elimination of Racial Discrimination",
+      "date": "2021-03-21"
+    },
+    {
+      "name": "World Poetry Day",
+      "date": "2021-03-21"
+    },
+    {
+      "name": "International Day of Nowruz",
+      "date": "2021-03-21"
+    },
+    {
+      "name": "World Down Syndrome Day",
+      "date": "2021-03-21"
+    },
+    {
+      "name": "International Day of Forests",
+      "date": "2021-03-21"
+    },
+    {
+      "name": "World Water Day",
+      "date": "2021-03-22"
+    },
+    {
+      "name": "World Meteorological Day",
+      "date": "2021-03-23"
+    },
+    {
+      "name": "World Tuberculosis Day",
+      "date": "2021-03-24"
+    },
+    {
+      "name": "International Day for the Right to the Truth concerning Gross Human Rights Violations and for the Dignity of Victims",
+      "date": "2021-03-24"
+    },
+    {
+      "name": "International Day of Remembrance of Slavery Victims and the Transatlantic Slave Trade",
+      "date": "2021-03-25"
+    },
+    {
+      "name": "International Day of Solidarity with Detained and Missing Staff Members",
+      "date": "2021-03-25"
+    },
+    {
+      "name": "Maryland Day",
+      "date": "2021-03-25"
+    },
+    {
+      "name": "Prince Jonah Kuhio Kalanianaole Day",
+      "date": "2021-03-26"
+    },
+    {
+      "name": "Passover Eve",
+      "date": "2021-03-27"
+    },
+    {
+      "name": "Earth Hour",
+      "date": "2021-03-27"
+    },
+    {
+      "name": "Palm Sunday",
+      "date": "2021-03-28"
+    },
+    {
+      "name": "Holi",
+      "date": "2021-03-28"
+    },
+    {
+      "name": "Passover (first day)",
+      "date": "2021-03-28"
+    },
+    {
+      "name": "Seward's Day",
+      "date": "2021-03-29"
+    },
+    {
+      "name": "National Vietnam War Veterans Day",
+      "date": "2021-03-29"
+    },
+    {
+      "name": "Doctors' Day",
+      "date": "2021-03-30"
+    },
+    {
+      "name": "C\u00e9sar Ch\u00e1vez Day",
+      "date": "2021-03-31"
+    },
+    {
+      "name": "Maundy Thursday",
+      "date": "2021-04-01"
+    },
+    {
+      "name": "April Fool's Day",
+      "date": "2021-04-01"
+    },
+    {
+      "name": "World Autism Awareness Day",
+      "date": "2021-04-02"
+    },
+    {
+      "name": "Good Friday",
+      "date": "2021-04-02"
+    },
+    {
+      "name": "Pascua Florida Day",
+      "date": "2021-04-02"
+    },
+    {
+      "name": "Holy Saturday",
+      "date": "2021-04-03"
+    },
+    {
+      "name": "Last Day of Passover",
+      "date": "2021-04-04"
+    },
+    {
+      "name": "United Nations' Mine Awareness Day",
+      "date": "2021-04-04"
+    },
+    {
+      "name": "Easter Sunday",
+      "date": "2021-04-04"
+    },
+    {
+      "name": "International Day of Conscience",
+      "date": "2021-04-05"
+    },
+    {
+      "name": "Easter Monday",
+      "date": "2021-04-05"
+    },
+    {
+      "name": "International Day of Sport for Development and Peace",
+      "date": "2021-04-06"
+    },
+    {
+      "name": "National Tartan Day",
+      "date": "2021-04-06"
+    },
+    {
+      "name": "National Library Workers' Day",
+      "date": "2021-04-06"
+    },
+    {
+      "name": "United Nations' World Health Day",
+      "date": "2021-04-07"
+    },
+    {
+      "name": "Day of Remembrance of the Victims of the Rwanda Genocide",
+      "date": "2021-04-07"
+    },
+    {
+      "name": "Yom HaShoah",
+      "date": "2021-04-08"
+    },
+    {
+      "name": "International Day of Human Space Flight",
+      "date": "2021-04-12"
+    },
+    {
+      "name": "Ramadan Starts",
+      "date": "2021-04-13"
+    },
+    {
+      "name": "Thomas Jefferson's Birthday",
+      "date": "2021-04-13"
+    },
+    {
+      "name": "World Chagas Disease Day",
+      "date": "2021-04-14"
+    },
+    {
+      "name": "Yom Ha'atzmaut",
+      "date": "2021-04-15"
+    },
+    {
+      "name": "Father Damien Day",
+      "date": "2021-04-15"
+    },
+    {
+      "name": "Emancipation Day",
+      "date": "2021-04-16"
+    },
+    {
+      "name": "International Day for Monuments and Sites",
+      "date": "2021-04-18"
+    },
+    {
+      "name": "Patriots' Day",
+      "date": "2021-04-19"
+    },
+    {
+      "name": "Chinese Language Day",
+      "date": "2021-04-20"
+    },
+    {
+      "name": "World Creativity and Innovation Day",
+      "date": "2021-04-21"
+    },
+    {
+      "name": "San Jacinto Day",
+      "date": "2021-04-21"
+    },
+    {
+      "name": "Administrative Professionals Day",
+      "date": "2021-04-21"
+    },
+    {
+      "name": "International Girls in ICT Day",
+      "date": "2021-04-22"
+    },
+    {
+      "name": "Earth Day",
+      "date": "2021-04-22"
+    },
+    {
+      "name": "Oklahoma Day",
+      "date": "2021-04-22"
+    },
+    {
+      "name": "Take our Daughters and Sons to Work Day",
+      "date": "2021-04-22"
+    },
+    {
+      "name": "World Book and Copyright Day",
+      "date": "2021-04-23"
+    },
+    {
+      "name": "English Language Day",
+      "date": "2021-04-23"
+    },
+    {
+      "name": "International Day of Multilateralism and Diplomacy for Peace",
+      "date": "2021-04-24"
+    },
+    {
+      "name": "International Delegate's Day",
+      "date": "2021-04-25"
+    },
+    {
+      "name": "World Malaria Day",
+      "date": "2021-04-25"
+    },
+    {
+      "name": "World Intellectual Property Day",
+      "date": "2021-04-26"
+    },
+    {
+      "name": "International Chernobyl Disaster Remembrance Day",
+      "date": "2021-04-26"
+    },
+    {
+      "name": "Confederate Memorial Day",
+      "date": "2021-04-26"
+    },
+    {
+      "name": "Confederate Heroes' Day",
+      "date": "2021-04-26"
+    },
+    {
+      "name": "World Day for Safety and Health at Work",
+      "date": "2021-04-28"
+    },
+    {
+      "name": "Lag BaOmer",
+      "date": "2021-04-30"
+    },
+    {
+      "name": "Orthodox Good Friday",
+      "date": "2021-04-30"
+    },
+    {
+      "name": "International Jazz Day",
+      "date": "2021-04-30"
+    },
+    {
+      "name": "Arbor Day",
+      "date": "2021-04-30"
+    },
+    {
+      "name": "Kentucky Oaks",
+      "date": "2021-04-30"
+    },
+    {
+      "name": "Orthodox Holy Saturday",
+      "date": "2021-05-01"
+    },
+    {
+      "name": "Kentucky Derby",
+      "date": "2021-05-01"
+    },
+    {
+      "name": "Law Day",
+      "date": "2021-05-01"
+    },
+    {
+      "name": "Loyalty Day",
+      "date": "2021-05-01"
+    },
+    {
+      "name": "National Explosive Ordnance Disposal (EOD) Day",
+      "date": "2021-05-01"
+    },
+    {
+      "name": "Lei Day",
+      "date": "2021-05-01"
+    },
+    {
+      "name": "First Day of Asian Pacific American Heritage Month",
+      "date": "2021-05-01"
+    },
+    {
+      "name": "First Day of Jewish American Heritage Month",
+      "date": "2021-05-01"
+    },
+    {
+      "name": "Orthodox Easter",
+      "date": "2021-05-02"
+    },
+    {
+      "name": "World Tuna Day",
+      "date": "2021-05-02"
+    },
+    {
+      "name": "Orthodox Easter Monday",
+      "date": "2021-05-03"
+    },
+    {
+      "name": "World Press Freedom Day",
+      "date": "2021-05-03"
+    },
+    {
+      "name": "Kent State Shootings Remembrance",
+      "date": "2021-05-04"
+    },
+    {
+      "name": "Rhode Island Independence Day",
+      "date": "2021-05-04"
+    },
+    {
+      "name": "World Portuguese Language Day",
+      "date": "2021-05-05"
+    },
+    {
+      "name": "Cinco de Mayo",
+      "date": "2021-05-05"
+    },
+    {
+      "name": "National Nurses Day",
+      "date": "2021-05-06"
+    },
+    {
+      "name": "National Day of Prayer",
+      "date": "2021-05-06"
+    },
+    {
+      "name": "Truman Day observed",
+      "date": "2021-05-07"
+    },
+    {
+      "name": "Military Spouse Appreciation Day",
+      "date": "2021-05-07"
+    },
+    {
+      "name": "Lailat al-Qadr",
+      "date": "2021-05-08"
+    },
+    {
+      "name": "Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War",
+      "date": "2021-05-08"
+    },
+    {
+      "name": "World Migratory Bird Day",
+      "date": "2021-05-08"
+    },
+    {
+      "name": "World Ovarian Cancer Day",
+      "date": "2021-05-08"
+    },
+    {
+      "name": "World Red Cross and Red Crescent Day",
+      "date": "2021-05-08"
+    },
+    {
+      "name": "Truman Day",
+      "date": "2021-05-08"
+    },
+    {
+      "name": "Victory in Europe Day",
+      "date": "2021-05-08"
+    },
+    {
+      "name": "Mother's Day",
+      "date": "2021-05-09"
+    },
+    {
+      "name": "International Day of Argania",
+      "date": "2021-05-10"
+    },
+    {
+      "name": "Confederate Memorial Day",
+      "date": "2021-05-10"
+    },
+    {
+      "name": "International Nurses Day",
+      "date": "2021-05-12"
+    },
+    {
+      "name": "Ascension Day",
+      "date": "2021-05-13"
+    },
+    {
+      "name": "Eid al-Fitr",
+      "date": "2021-05-13"
+    },
+    {
+      "name": "Native American Day",
+      "date": "2021-05-14"
+    },
+    {
+      "name": "International Day of Families",
+      "date": "2021-05-15"
+    },
+    {
+      "name": "Peace Officers Memorial Day",
+      "date": "2021-05-15"
+    },
+    {
+      "name": "Armed Forces Day",
+      "date": "2021-05-15"
+    },
+    {
+      "name": "Preakness Stakes",
+      "date": "2021-05-15"
+    },
+    {
+      "name": "International Day of Living Together in Peace",
+      "date": "2021-05-16"
+    },
+    {
+      "name": "International Day of Light",
+      "date": "2021-05-16"
+    },
+    {
+      "name": "Shavuot",
+      "date": "2021-05-17"
+    },
+    {
+      "name": "World Information Society Day",
+      "date": "2021-05-17"
+    },
+    {
+      "name": "Tax Day",
+      "date": "2021-05-17"
+    },
+    {
+      "name": "Emergency Medical Services for Children Day",
+      "date": "2021-05-19"
+    },
+    {
+      "name": "World Bee Day",
+      "date": "2021-05-20"
+    },
+    {
+      "name": "World Autoimmune / Autoinflammatory Arthritis Day",
+      "date": "2021-05-20"
+    },
+    {
+      "name": "World Day for Cultural Diversity for Dialogue and Development",
+      "date": "2021-05-21"
+    },
+    {
+      "name": "International Tea Day",
+      "date": "2021-05-21"
+    },
+    {
+      "name": "National Defense Transportation Day",
+      "date": "2021-05-21"
+    },
+    {
+      "name": "International Day for Biological Diversity",
+      "date": "2021-05-22"
+    },
+    {
+      "name": "National Maritime Day",
+      "date": "2021-05-22"
+    },
+    {
+      "name": "Harvey Milk Day",
+      "date": "2021-05-22"
+    },
+    {
+      "name": "Pentecost",
+      "date": "2021-05-23"
+    },
+    {
+      "name": "International Day to End Obstetric Fistula",
+      "date": "2021-05-23"
+    },
+    {
+      "name": "Whit Monday",
+      "date": "2021-05-24"
+    },
+    {
+      "name": "African Liberation Day",
+      "date": "2021-05-25"
+    },
+    {
+      "name": "National Missing Children's Day",
+      "date": "2021-05-25"
+    },
+    {
+      "name": "Day of Vesak",
+      "date": "2021-05-26"
+    },
+    {
+      "name": "International Day of United Nations Peacekeepers",
+      "date": "2021-05-29"
+    },
+    {
+      "name": "Trinity Sunday",
+      "date": "2021-05-30"
+    },
+    {
+      "name": "World No Tobacco Day",
+      "date": "2021-05-31"
+    },
+    {
+      "name": "Memorial Day",
+      "date": "2021-05-31"
+    },
+    {
+      "name": "Jefferson Davis' Birthday",
+      "date": "2021-05-31"
+    },
+    {
+      "name": "Global Day of Parents",
+      "date": "2021-06-01"
+    },
+    {
+      "name": "First Day of Pride Month",
+      "date": "2021-06-01"
+    },
+    {
+      "name": "First Day of Caribbean-American Heritage Month",
+      "date": "2021-06-01"
+    },
+    {
+      "name": "Statehood Day",
+      "date": "2021-06-01"
+    },
+    {
+      "name": "Native American Day",
+      "date": "2021-06-02"
+    },
+    {
+      "name": "Corpus Christi",
+      "date": "2021-06-03"
+    },
+    {
+      "name": "World Bicycle Day",
+      "date": "2021-06-03"
+    },
+    {
+      "name": "Jefferson Davis' Birthday",
+      "date": "2021-06-03"
+    },
+    {
+      "name": "International Day of Innocent Children Victims of Aggression",
+      "date": "2021-06-04"
+    },
+    {
+      "name": "World Environment Day",
+      "date": "2021-06-05"
+    },
+    {
+      "name": "International Day for the Fight against Illegal, Unreported and Unregulated Fishing",
+      "date": "2021-06-05"
+    },
+    {
+      "name": "Belmont Stakes",
+      "date": "2021-06-05"
+    },
+    {
+      "name": "Day of the Russian Language",
+      "date": "2021-06-06"
+    },
+    {
+      "name": "D-Day",
+      "date": "2021-06-06"
+    },
+    {
+      "name": "World Food Safety Day",
+      "date": "2021-06-07"
+    },
+    {
+      "name": "Jefferson Davis' Birthday",
+      "date": "2021-06-07"
+    },
+    {
+      "name": "World Oceans Day",
+      "date": "2021-06-08"
+    },
+    {
+      "name": "Kamehameha Day",
+      "date": "2021-06-11"
+    },
+    {
+      "name": "World Day Against Child Labour",
+      "date": "2021-06-12"
+    },
+    {
+      "name": "Loving Day",
+      "date": "2021-06-12"
+    },
+    {
+      "name": "International Albinism Awareness Day",
+      "date": "2021-06-13"
+    },
+    {
+      "name": "Bunker Hill Day",
+      "date": "2021-06-13"
+    },
+    {
+      "name": "World Blood Donor Day",
+      "date": "2021-06-14"
+    },
+    {
+      "name": "Army Birthday",
+      "date": "2021-06-14"
+    },
+    {
+      "name": "Flag Day",
+      "date": "2021-06-14"
+    },
+    {
+      "name": "World Elder Abuse Awareness Day",
+      "date": "2021-06-15"
+    },
+    {
+      "name": "International Day of Family Remittances",
+      "date": "2021-06-16"
+    },
+    {
+      "name": "World Day to Combat Desertification and Drought",
+      "date": "2021-06-17"
+    },
+    {
+      "name": "Sustainable Gastronomy Day",
+      "date": "2021-06-18"
+    },
+    {
+      "name": "Day off for Juneteenth",
+      "date": "2021-06-18"
+    },
+    {
+      "name": "Day off for Juneteenth National Freedom Day",
+      "date": "2021-06-18"
+    },
+    {
+      "name": "International Day for the Elimination of Sexual Violence in Conflict",
+      "date": "2021-06-19"
+    },
+    {
+      "name": "Juneteenth",
+      "date": "2021-06-19"
+    },
+    {
+      "name": "Juneteenth Day",
+      "date": "2021-06-19"
+    },
+    {
+      "name": "Juneteenth National Freedom Day",
+      "date": "2021-06-19"
+    },
+    {
+      "name": "Juneteenth National Independence Day",
+      "date": "2021-06-19"
+    },
+    {
+      "name": "Emancipation Day",
+      "date": "2021-06-19"
+    },
+    {
+      "name": "World Refugee Day",
+      "date": "2021-06-20"
+    },
+    {
+      "name": "Father's Day",
+      "date": "2021-06-20"
+    },
+    {
+      "name": "West Virginia Day",
+      "date": "2021-06-20"
+    },
+    {
+      "name": "American Eagle Day",
+      "date": "2021-06-20"
+    },
+    {
+      "name": "June Solstice",
+      "date": "2021-06-20"
+    },
+    {
+      "name": "International Day of Yoga",
+      "date": "2021-06-21"
+    },
+    {
+      "name": "International Day of the Celebration of the Solstice",
+      "date": "2021-06-21"
+    },
+    {
+      "name": "West Virginia Day observed",
+      "date": "2021-06-21"
+    },
+    {
+      "name": "Public Service Day",
+      "date": "2021-06-23"
+    },
+    {
+      "name": "International Widows' Day",
+      "date": "2021-06-23"
+    },
+    {
+      "name": "Day of the Seafarer",
+      "date": "2021-06-25"
+    },
+    {
+      "name": "International Day Against Drug Abuse and Illicit Trafficking",
+      "date": "2021-06-26"
+    },
+    {
+      "name": "International Day in Support of Victims of Torture",
+      "date": "2021-06-26"
+    },
+    {
+      "name": "Micro-, Small and Medium-sized Enterprises Day",
+      "date": "2021-06-27"
+    },
+    {
+      "name": "International Day of the Tropics",
+      "date": "2021-06-29"
+    },
+    {
+      "name": "International Asteroid Day",
+      "date": "2021-06-30"
+    },
+    {
+      "name": "International Day of Parliamentarism",
+      "date": "2021-06-30"
+    },
+    {
+      "name": "International Day of Cooperatives",
+      "date": "2021-07-03"
+    },
+    {
+      "name": "Independence Day",
+      "date": "2021-07-04"
+    },
+    {
+      "name": "Independence Day observed",
+      "date": "2021-07-05"
+    },
+    {
+      "name": "World Population Day",
+      "date": "2021-07-11"
+    },
+    {
+      "name": "Nathan Bedford Forrest Day",
+      "date": "2021-07-13"
+    },
+    {
+      "name": "Bastille Day",
+      "date": "2021-07-14"
+    },
+    {
+      "name": "World Youth Skills Day",
+      "date": "2021-07-15"
+    },
+    {
+      "name": "Rural Transit Day",
+      "date": "2021-07-16"
+    },
+    {
+      "name": "Tisha B'Av",
+      "date": "2021-07-18"
+    },
+    {
+      "name": "Nelson Mandela Day",
+      "date": "2021-07-18"
+    },
+    {
+      "name": "Eid al-Adha",
+      "date": "2021-07-20"
+    },
+    {
+      "name": "World Chess Day",
+      "date": "2021-07-20"
+    },
+    {
+      "name": "Pioneer Day observed",
+      "date": "2021-07-23"
+    },
+    {
+      "name": "Pioneer Day",
+      "date": "2021-07-24"
+    },
+    {
+      "name": "World Drowning Prevention Day",
+      "date": "2021-07-25"
+    },
+    {
+      "name": "Parents' Day",
+      "date": "2021-07-25"
+    },
+    {
+      "name": "National Korean War Veterans Armistice Day",
+      "date": "2021-07-27"
+    },
+    {
+      "name": "World Hepatitis Day",
+      "date": "2021-07-28"
+    },
+    {
+      "name": "International Day of Friendship",
+      "date": "2021-07-30"
+    },
+    {
+      "name": "World Day against Trafficking in Persons",
+      "date": "2021-07-30"
+    },
+    {
+      "name": "Colorado Day",
+      "date": "2021-08-01"
+    },
+    {
+      "name": "Coast Guard Birthday",
+      "date": "2021-08-04"
+    },
+    {
+      "name": "Barack Obama Day",
+      "date": "2021-08-04"
+    },
+    {
+      "name": "Purple Heart Day",
+      "date": "2021-08-07"
+    },
+    {
+      "name": "International Day of the World's Indigenous People",
+      "date": "2021-08-09"
+    },
+    {
+      "name": "Victory Day",
+      "date": "2021-08-09"
+    },
+    {
+      "name": "Muharram",
+      "date": "2021-08-10"
+    },
+    {
+      "name": "International Youth Day",
+      "date": "2021-08-12"
+    },
+    {
+      "name": "Friday the 13th",
+      "date": "2021-08-13"
+    },
+    {
+      "name": "Assumption of Mary",
+      "date": "2021-08-15"
+    },
+    {
+      "name": "National Senior Citizens Day",
+      "date": "2021-08-15"
+    },
+    {
+      "name": "Bennington Battle Day",
+      "date": "2021-08-16"
+    },
+    {
+      "name": "Ashura",
+      "date": "2021-08-19"
+    },
+    {
+      "name": "World Humanitarian Day",
+      "date": "2021-08-19"
+    },
+    {
+      "name": "National Aviation Day",
+      "date": "2021-08-19"
+    },
+    {
+      "name": "Hawaii Statehood Day",
+      "date": "2021-08-20"
+    },
+    {
+      "name": "Raksha Bandhan",
+      "date": "2021-08-21"
+    },
+    {
+      "name": "International Day of Remembrance of and Tribute to the Victims of Terrorism",
+      "date": "2021-08-21"
+    },
+    {
+      "name": "International Day Commemorating the Victims of Acts of Violence Based on Religion or Belief",
+      "date": "2021-08-22"
+    },
+    {
+      "name": "International Day for the Remembrance of the Slave Trade and its Abolition",
+      "date": "2021-08-23"
+    },
+    {
+      "name": "Women's Equality Day",
+      "date": "2021-08-26"
+    },
+    {
+      "name": "Lyndon Baines Johnson Day",
+      "date": "2021-08-27"
+    },
+    {
+      "name": "International Day against Nuclear Tests",
+      "date": "2021-08-29"
+    },
+    {
+      "name": "International Day of the Victims of Enforced Disappearances",
+      "date": "2021-08-30"
+    },
+    {
+      "name": "International Day for People of African Descent",
+      "date": "2021-08-31"
+    },
+    {
+      "name": "International Overdose Awareness Day",
+      "date": "2021-08-31"
+    },
+    {
+      "name": "World Sexual Health Day",
+      "date": "2021-09-04"
+    },
+    {
+      "name": "International Day of Charity",
+      "date": "2021-09-05"
+    },
+    {
+      "name": "Labor Day",
+      "date": "2021-09-06"
+    },
+    {
+      "name": "International Day of Clean Air for Blue Skies",
+      "date": "2021-09-07"
+    },
+    {
+      "name": "Rosh Hashana",
+      "date": "2021-09-07"
+    },
+    {
+      "name": "International Literacy Day",
+      "date": "2021-09-08"
+    },
+    {
+      "name": "International Day to Protect Education from Attack",
+      "date": "2021-09-09"
+    },
+    {
+      "name": "California Admission Day",
+      "date": "2021-09-09"
+    },
+    {
+      "name": "Ganesh Chaturthi",
+      "date": "2021-09-10"
+    },
+    {
+      "name": "World Suicide Prevention Day",
+      "date": "2021-09-10"
+    },
+    {
+      "name": "First Responders Day",
+      "date": "2021-09-11"
+    },
+    {
+      "name": "Patriot Day",
+      "date": "2021-09-11"
+    },
+    {
+      "name": "Carl Garner Federal Lands Cleanup Day",
+      "date": "2021-09-11"
+    },
+    {
+      "name": "International Day for South-South Cooperation",
+      "date": "2021-09-12"
+    },
+    {
+      "name": "National Grandparents Day",
+      "date": "2021-09-12"
+    },
+    {
+      "name": "International Programmers' Day",
+      "date": "2021-09-13"
+    },
+    {
+      "name": "International Day of Democracy",
+      "date": "2021-09-15"
+    },
+    {
+      "name": "International Day for the Preservation of the Ozone Layer",
+      "date": "2021-09-16"
+    },
+    {
+      "name": "Yom Kippur",
+      "date": "2021-09-16"
+    },
+    {
+      "name": "World Patient Safety Day",
+      "date": "2021-09-17"
+    },
+    {
+      "name": "Still's Disease Awareness Day",
+      "date": "2021-09-17"
+    },
+    {
+      "name": "Constitution Day and Citizenship Day",
+      "date": "2021-09-17"
+    },
+    {
+      "name": "National POW/MIA Recognition Day",
+      "date": "2021-09-17"
+    },
+    {
+      "name": "International Equal Pay Day",
+      "date": "2021-09-18"
+    },
+    {
+      "name": "Air Force Birthday",
+      "date": "2021-09-18"
+    },
+    {
+      "name": "National CleanUp Day",
+      "date": "2021-09-18"
+    },
+    {
+      "name": "First Day of Sukkot",
+      "date": "2021-09-21"
+    },
+    {
+      "name": "International Day of Peace",
+      "date": "2021-09-21"
+    },
+    {
+      "name": "Emancipation Day",
+      "date": "2021-09-22"
+    },
+    {
+      "name": "September Equinox",
+      "date": "2021-09-22"
+    },
+    {
+      "name": "International Day of Sign Languages",
+      "date": "2021-09-23"
+    },
+    {
+      "name": "International Celebrate Bisexuality Day",
+      "date": "2021-09-23"
+    },
+    {
+      "name": "Native American Day",
+      "date": "2021-09-24"
+    },
+    {
+      "name": "American Indian Heritage Day",
+      "date": "2021-09-24"
+    },
+    {
+      "name": "Michigan Indian Day",
+      "date": "2021-09-24"
+    },
+    {
+      "name": "International Day for the Total Elimination of Nuclear Weapons",
+      "date": "2021-09-26"
+    },
+    {
+      "name": "Gold Star Mother's Day",
+      "date": "2021-09-26"
+    },
+    {
+      "name": "Last Day of Sukkot",
+      "date": "2021-09-27"
+    },
+    {
+      "name": "World Tourism Day",
+      "date": "2021-09-27"
+    },
+    {
+      "name": "American Indian Day",
+      "date": "2021-09-27"
+    },
+    {
+      "name": "Shmini Atzeret",
+      "date": "2021-09-28"
+    },
+    {
+      "name": "International Day for Universal Access to Information",
+      "date": "2021-09-28"
+    },
+    {
+      "name": "World Rabies Day",
+      "date": "2021-09-28"
+    },
+    {
+      "name": "Simchat Torah",
+      "date": "2021-09-29"
+    },
+    {
+      "name": "International Day of Awareness of Food Loss and Waste",
+      "date": "2021-09-29"
+    },
+    {
+      "name": "World Heart Day",
+      "date": "2021-09-29"
+    },
+    {
+      "name": "World Maritime Day",
+      "date": "2021-09-30"
+    },
+    {
+      "name": "International Translation Day",
+      "date": "2021-09-30"
+    },
+    {
+      "name": "International Day of Older Persons",
+      "date": "2021-10-01"
+    },
+    {
+      "name": "World Vegetarian Day",
+      "date": "2021-10-01"
+    },
+    {
+      "name": "International Day of Non-Violence",
+      "date": "2021-10-02"
+    },
+    {
+      "name": "Feast of St Francis of Assisi",
+      "date": "2021-10-04"
+    },
+    {
+      "name": "World Habitat Day",
+      "date": "2021-10-04"
+    },
+    {
+      "name": "Frances Xavier Cabrini Day",
+      "date": "2021-10-04"
+    },
+    {
+      "name": "Child Health Day",
+      "date": "2021-10-04"
+    },
+    {
+      "name": "World Teachers' Day",
+      "date": "2021-10-05"
+    },
+    {
+      "name": "World Cerebral Palsy Day",
+      "date": "2021-10-06"
+    },
+    {
+      "name": "World Post Day",
+      "date": "2021-10-09"
+    },
+    {
+      "name": "Leif Erikson Day",
+      "date": "2021-10-09"
+    },
+    {
+      "name": "World Mental Health Day",
+      "date": "2021-10-10"
+    },
+    {
+      "name": "Chicago Marathon",
+      "date": "2021-10-10"
+    },
+    {
+      "name": "International Day of the Girl Child",
+      "date": "2021-10-11"
+    },
+    {
+      "name": "Columbus Day",
+      "date": "2021-10-11"
+    },
+    {
+      "name": "Fraternal Day",
+      "date": "2021-10-11"
+    },
+    {
+      "name": "Yorktown Victory Day",
+      "date": "2021-10-11"
+    },
+    {
+      "name": "Discoverers\u2019 Day",
+      "date": "2021-10-11"
+    },
+    {
+      "name": "Native American Day",
+      "date": "2021-10-11"
+    },
+    {
+      "name": "Indigenous People's Day (Tentative Date)",
+      "date": "2021-10-11"
+    },
+    {
+      "name": "Indigenous People's Day",
+      "date": "2021-10-11"
+    },
+    {
+      "name": "American Indian Heritage Day",
+      "date": "2021-10-11"
+    },
+    {
+      "name": "Boston Marathon (Tentative Date)",
+      "date": "2021-10-11"
+    },
+    {
+      "name": "World Spanish Language Day",
+      "date": "2021-10-12"
+    },
+    {
+      "name": "International Day for Natural Disaster Reduction",
+      "date": "2021-10-13"
+    },
+    {
+      "name": "Navy Birthday",
+      "date": "2021-10-13"
+    },
+    {
+      "name": "Dussehra",
+      "date": "2021-10-14"
+    },
+    {
+      "name": "World Sight Day",
+      "date": "2021-10-14"
+    },
+    {
+      "name": "International Day of Rural Women",
+      "date": "2021-10-15"
+    },
+    {
+      "name": "White Cane Safety Day",
+      "date": "2021-10-15"
+    },
+    {
+      "name": "Boss's Day",
+      "date": "2021-10-15"
+    },
+    {
+      "name": "World Food Day",
+      "date": "2021-10-16"
+    },
+    {
+      "name": "Sweetest Day",
+      "date": "2021-10-16"
+    },
+    {
+      "name": "International Day for the Eradication of Poverty",
+      "date": "2021-10-17"
+    },
+    {
+      "name": "Alaska Day",
+      "date": "2021-10-18"
+    },
+    {
+      "name": "The Prophet's Birthday",
+      "date": "2021-10-19"
+    },
+    {
+      "name": "United Nations Day",
+      "date": "2021-10-24"
+    },
+    {
+      "name": "World Development Information Day",
+      "date": "2021-10-24"
+    },
+    {
+      "name": "World Day for Audiovisual Heritage",
+      "date": "2021-10-27"
+    },
+    {
+      "name": "World Stroke Day",
+      "date": "2021-10-29"
+    },
+    {
+      "name": "Nevada Day",
+      "date": "2021-10-29"
+    },
+    {
+      "name": "World Cities Day",
+      "date": "2021-10-31"
+    },
+    {
+      "name": "Halloween",
+      "date": "2021-10-31"
+    },
+    {
+      "name": "All Saints' Day",
+      "date": "2021-11-01"
+    },
+    {
+      "name": "World Vegan Day",
+      "date": "2021-11-01"
+    },
+    {
+      "name": "First Day of Native American Heritage Month",
+      "date": "2021-11-01"
+    },
+    {
+      "name": "All Souls' Day",
+      "date": "2021-11-02"
+    },
+    {
+      "name": "International Day to End Impunity for Crimes against Journalists",
+      "date": "2021-11-02"
+    },
+    {
+      "name": "Election Day",
+      "date": "2021-11-02"
+    },
+    {
+      "name": "Diwali/Deepavali",
+      "date": "2021-11-04"
+    },
+    {
+      "name": "World Tsunami Awareness Day",
+      "date": "2021-11-05"
+    },
+    {
+      "name": "International Day for Preventing the Exploitation of the Environment in War and Armed Conflict",
+      "date": "2021-11-06"
+    },
+    {
+      "name": "New York City Marathon",
+      "date": "2021-11-07"
+    },
+    {
+      "name": "Daylight Saving Time ends",
+      "date": "2021-11-07"
+    },
+    {
+      "name": "Barack Obama Day",
+      "date": "2021-11-08"
+    },
+    {
+      "name": "World Science Day for Peace and Development",
+      "date": "2021-11-10"
+    },
+    {
+      "name": "Marine Corps Birthday",
+      "date": "2021-11-10"
+    },
+    {
+      "name": "Veterans Day",
+      "date": "2021-11-11"
+    },
+    {
+      "name": "World Pneumonia Day",
+      "date": "2021-11-12"
+    },
+    {
+      "name": "World Diabetes Day",
+      "date": "2021-11-14"
+    },
+    {
+      "name": "International Day for Tolerance",
+      "date": "2021-11-16"
+    },
+    {
+      "name": "World Prematurity Day",
+      "date": "2021-11-17"
+    },
+    {
+      "name": "World Philosophy Day",
+      "date": "2021-11-18"
+    },
+    {
+      "name": "World Toilet Day",
+      "date": "2021-11-19"
+    },
+    {
+      "name": "International Men's Day",
+      "date": "2021-11-19"
+    },
+    {
+      "name": "Universal Children's Day",
+      "date": "2021-11-20"
+    },
+    {
+      "name": "Africa Industrialization Day",
+      "date": "2021-11-20"
+    },
+    {
+      "name": "World Day of Remembrance for Road Traffic Victims",
+      "date": "2021-11-21"
+    },
+    {
+      "name": "World Television Day",
+      "date": "2021-11-21"
+    },
+    {
+      "name": "International Day for the Elimination of Violence against Women",
+      "date": "2021-11-25"
+    },
+    {
+      "name": "Thanksgiving Day",
+      "date": "2021-11-25"
+    },
+    {
+      "name": "State Holiday",
+      "date": "2021-11-26"
+    },
+    {
+      "name": "Presidents' Day",
+      "date": "2021-11-26"
+    },
+    {
+      "name": "Lincoln's Birthday/Lincoln's Day",
+      "date": "2021-11-26"
+    },
+    {
+      "name": "Day After Thanksgiving",
+      "date": "2021-11-26"
+    },
+    {
+      "name": "Black Friday",
+      "date": "2021-11-26"
+    },
+    {
+      "name": "American Indian Heritage Day",
+      "date": "2021-11-26"
+    },
+    {
+      "name": "Native American Heritage Day",
+      "date": "2021-11-26"
+    },
+    {
+      "name": "First Sunday of Advent",
+      "date": "2021-11-28"
+    },
+    {
+      "name": "Chanukah/Hanukkah (first day)",
+      "date": "2021-11-29"
+    },
+    {
+      "name": "International Day of Solidarity with the Palestinian People",
+      "date": "2021-11-29"
+    },
+    {
+      "name": "Cyber Monday",
+      "date": "2021-11-29"
+    },
+    {
+      "name": "Day of Remembrance for all Victims of Chemical Warfare",
+      "date": "2021-11-30"
+    },
+    {
+      "name": "World AIDS Day",
+      "date": "2021-12-01"
+    },
+    {
+      "name": "Rosa Parks Day",
+      "date": "2021-12-01"
+    },
+    {
+      "name": "International Day for the Abolition of Slavery",
+      "date": "2021-12-02"
+    },
+    {
+      "name": "International Day of Persons with Disabilities",
+      "date": "2021-12-03"
+    },
+    {
+      "name": "International Day of Banks",
+      "date": "2021-12-04"
+    },
+    {
+      "name": "International Volunteer Day for Economic and Social Development",
+      "date": "2021-12-05"
+    },
+    {
+      "name": "World Soil Day",
+      "date": "2021-12-05"
+    },
+    {
+      "name": "Last Day of Chanukah",
+      "date": "2021-12-06"
+    },
+    {
+      "name": "St Nicholas Day",
+      "date": "2021-12-06"
+    },
+    {
+      "name": "International Civil Aviation Day",
+      "date": "2021-12-07"
+    },
+    {
+      "name": "Pearl Harbor Remembrance Day",
+      "date": "2021-12-07"
+    },
+    {
+      "name": "Feast of the Immaculate Conception",
+      "date": "2021-12-08"
+    },
+    {
+      "name": "International Anti-Corruption Day",
+      "date": "2021-12-09"
+    },
+    {
+      "name": "World Genocide Commemoration Day",
+      "date": "2021-12-09"
+    },
+    {
+      "name": "Human Rights Day",
+      "date": "2021-12-10"
+    },
+    {
+      "name": "International Mountain Day",
+      "date": "2021-12-11"
+    },
+    {
+      "name": "International Day of Neutrality",
+      "date": "2021-12-12"
+    },
+    {
+      "name": "International Universal Health Coverage Day",
+      "date": "2021-12-12"
+    },
+    {
+      "name": "Feast of Our Lady of Guadalupe",
+      "date": "2021-12-12"
+    },
+    {
+      "name": "National Guard Birthday",
+      "date": "2021-12-13"
+    },
+    {
+      "name": "Bill of Rights Day",
+      "date": "2021-12-15"
+    },
+    {
+      "name": "Pan American Aviation Day",
+      "date": "2021-12-17"
+    },
+    {
+      "name": "Wright Brothers Day",
+      "date": "2021-12-17"
+    },
+    {
+      "name": "International Migrants Day",
+      "date": "2021-12-18"
+    },
+    {
+      "name": "Arabic Language Day",
+      "date": "2021-12-18"
+    },
+    {
+      "name": "International Human Solidarity Day",
+      "date": "2021-12-20"
+    },
+    {
+      "name": "December Solstice",
+      "date": "2021-12-21"
+    },
+    {
+      "name": "Washington's Birthday",
+      "date": "2021-12-23"
+    },
+    {
+      "name": "Day off for Christmas Day",
+      "date": "2021-12-24"
+    },
+    {
+      "name": "Christmas Eve",
+      "date": "2021-12-24"
+    },
+    {
+      "name": "Christmas Day",
+      "date": "2021-12-25"
+    },
+    {
+      "name": "Kwanzaa (first day)",
+      "date": "2021-12-26"
+    },
+    {
+      "name": "Day After Christmas Day",
+      "date": "2021-12-26"
+    },
+    {
+      "name": "International Day of Epidemic Preparedness",
+      "date": "2021-12-27"
+    },
+    {
+      "name": "Day off for New Year's Day",
+      "date": "2021-12-31"
+    },
+    {
+      "name": "New Year's Eve",
+      "date": "2021-12-31"
+    }
+  ]
+}
