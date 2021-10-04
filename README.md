@@ -1,1 +1,8 @@
 # Assessment_6
+
+## Introduction
+This repo contains the required contents for Assessment 6 (i.e., A .py file containing all of the code for web-scraping, class creation and instantiation, as well as the JSON file created as a part of the web-scraping portion of the assessment). The .py file is a bit long and contains a wealth of commments to make it clear what I am doing in almost every step. At the time of writing my plans folder containing my flow-map of the code, and a document (in word format) containg some variable and function names and their respective definitions are yet to be uploaded.
+
+## Assessment_6_(Holidays) .py file
+The .py file is broken up into 3 sections with all of the neccessary imports at the very top of the script. The first section details how I did my web-scraping. The first section is not fully complete (as of writing) as I still need to scrap some more data and will do so in the near future. By the end of the first section I create a JSON of my scraped holiday name and dates and the result is included and present in the uploaded JSON file (AllHolidays.json). The second section contains my code for creating a holiday class (it was kept simple for this exercise including only name and date attributes). The name attribute was a string and the date attribute was kept as a datetime object.
+The final section is where I create the UI as well as several helper functions. At the very bottom of the file are some notes I made while testing the code and are labeled as such. For more specifics on each section open the pythin script file and see the internal comments.
